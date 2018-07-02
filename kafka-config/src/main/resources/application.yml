@@ -1,0 +1,4 @@
+spring:
+  kafka:
+    server: localhost
+    port: 9092
